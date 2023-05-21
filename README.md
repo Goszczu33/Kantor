@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://goszczu33.github.io/kantor/
+https://goszczu33.github.io/Kantor/
 
 ## Opis:
 
