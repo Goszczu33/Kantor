@@ -9,6 +9,7 @@ html {
 }
 .body {
     background: center url("../images/money-paper-currency.jpg");
+    background-size: cover;
     
 }
 .container {

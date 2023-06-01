@@ -9,3 +9,9 @@ https://goszczu33.github.io/Kantor/
 ## Opis:
 
 Prosty kantor walutowy pozwalający sprawdzić kurs polskiej złotówki na euro, dolarze amerykańskim oraz funcie brytyjskim. 
+
+## Technologie:
+
+- HTML
+- CSS
+- JavaScript
